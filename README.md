@@ -1,2 +1,2 @@
-# MyProject
-some projects done by hhj
+# SnakeGame
+An easy snake game by c++
